@@ -10,4 +10,7 @@ fun main () {
     aaaa.sayHello("Zaic")
 
     println(aaaa.functionPlus(5, 20))
+
+    val bbbb : Person = Person()
+    println(bbbb.namePerson)
 }

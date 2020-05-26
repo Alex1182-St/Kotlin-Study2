@@ -6,7 +6,7 @@ var mark: String? = "mark"
 fun main () {
 
     val name: String = "Oleksandr"
-    val surname: String = "Stepaniuk"
+    val surname: String = "Wishmaster"
     println(hello + " " + name + " " + surname + exclamationMark)
 
     exclamationMark = "!!"
